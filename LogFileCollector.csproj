@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="ShUtilities">
+      <HintPath>..\ShUtilities\bin\Release\net6.0\ShUtilities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
